@@ -48,6 +48,7 @@
 ## Utils
 
 - [automated-Playwright-UI-tests](https://github.com/OctoMind-dev) - Auto-generated, run & maintained with AI-assisted test case discovery.
+-  [AgentAuth](https://github.com/jacobgadek/agent-auth) - Sync local Chrome sessions to Playwright for automatic authentication (bypasses login/2FA).
 - [Try Playwright](https://try.playwright.tech) - Interactive playground for running Playwright tests.
 - [TestingBot](https://testingbot.com) - Connect your Playwright tests with browsers in the Cloud.
 - [eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
